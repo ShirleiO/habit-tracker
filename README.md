@@ -1,4 +1,4 @@
-# 🪴**Habit Tracker - (Python-based CLI)**🪴
+🪴# **Habit Tracker - (Python-based CLI)🪴**
 
 ## 📂**Description:**
 A straightforward Python command-line habit tracker that stores data in CSV files.
